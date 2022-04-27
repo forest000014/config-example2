@@ -1,4 +1,4 @@
 alice:
-  value: "somewhere over the rainbow", "anywhere over the rainbow", "nowhere over the rainbow"
+  value: ["somewhere over the rainbow", "anywhere over the rainbow", "nowhere over the rainbow"]
 bob:
   value: "nowhere over the rainbow"
