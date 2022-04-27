@@ -1,6 +1,7 @@
-name: "alice"
-kor: "80"
-eng: "100"
+my:
+  name: "alice"
+  kor: "80"
+  eng: "100"
 #  - name: "alice"
 #    kor: "80"
 #    eng: "100"
