@@ -7,10 +7,3 @@ spring:
           search-paths: config1, config2
           ignoreLocalSshSettings: true
           privateKey: |
-            -----BEGIN OPENSSH PRIVATE KEY-----
-            b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
-            QyNTUxOQAAACDYXxgnMBJ3VY/e8VG/hbQV1Ppigq6oiVqP9usqQMP7LAAAAKA8l2fiPJdn
-            4gAAAAtzc2gtZWQyNTUxOQAAACDYXxgnMBJ3VY/e8VG/hbQV1Ppigq6oiVqP9usqQMP7LA
-            AAAEAW0tCibeghMawkpIIZvB4nFSDKJn/5SVHGDhP75slyGdhfGCcwEndVj97xUb+FtBXU
-            +mKCrqiJWo/26ypAw/ssAAAAFmZvcmVzdDAwMDAxNEBnbWFpbC5jb20BAgMEBQYH
-            -----END OPENSSH PRIVATE KEY-----
