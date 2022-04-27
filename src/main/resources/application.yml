@@ -4,8 +4,8 @@ spring:
       server:
         git:
           uri: https://github.com/forest000014/config-example2.git
-#          search-paths:
-#            - config
+          search-paths:
+            - config
           ignoreLocalSshSettings: true
           privateKey: |
             -----BEGIN OPENSSH PRIVATE KEY-----
