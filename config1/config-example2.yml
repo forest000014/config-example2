@@ -1,5 +1,7 @@
-alice:
-  - kor: 80
+my:
+  - name: alice
+    kor: 80
     eng: 100
-  - kor: 99
+  - name: bob
+    kor: 99
     eng: 98
