@@ -1,7 +1,8 @@
 my:
-  - name: alice
-    kor: 80
-    eng: 100
-#  - name: bob
-#    kor: 99
-#    eng: 98
+  name: "alice"
+#  - name: "alice"
+#    kor: "80"
+#    eng: "100"
+#  - name: "bob"
+#    kor: "99"
+#    eng: "98"
