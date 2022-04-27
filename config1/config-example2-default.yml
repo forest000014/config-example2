@@ -1,2 +1,4 @@
-my:
-  value: "anywhere over the rainbow"
+alice:
+  value: "somewhere over the rainbow"
+bob:
+  value: "nowhere over the rainbow"
